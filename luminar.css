@@ -59,26 +59,12 @@ img{
 }
 .footerimg{
     width: 100%;
-    height: 130px;
+    height: 90px;
 }
 .v1{
     position: -webkit-sticky;
   position: sticky;
   top: 0;
-}
-.testi{
-    height: 200px;
-    width: 100%;
-    margin-top: 50px;
-}
-.t2{
-    height: 100px;
-    width: 100%;
-    margin-top: 50px;
-}
-.testiimg{
-    height: 60px;
-    width: 60%;
 }
 
 }
@@ -121,7 +107,8 @@ background-color: rgb(98, 4, 165);
     width: 100%;
 }
 .k1{
-    height: 230px;
+    height: 190px;
+    
 }
 .li{
     text-decoration: none;
@@ -137,7 +124,5 @@ background-color: rgb(98, 4, 165);
     color: white;
     list-style: none;
 }
-.testi{
-    margin-bottom: 40px;
-}
+
 
